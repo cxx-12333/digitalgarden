@@ -11,16 +11,16 @@
 
 ## 最近更新
 
-```dataview
-TABLE WITHOUT ID
-  file.link AS "笔记",
-  choice(tags != null, join(map(tags, (t) => "#" + t), " "), "") AS "标签",
-  created AS "日期"
-FROM -"Templates"
-WHERE file.name != this.file.name AND created
-SORT created DESC
-LIMIT 10
-```
+| 笔记                                        | 标签                  | 日期             |
+| ----------------------------------------- | ------------------- | -------------- |
+| [[企业级IDP平台配置中心设计方案\|企业级IDP平台配置中心设计方案]] | #技术架构 #云原生 #IDP     | April 15, 2026 |
+| [[Notes/什么是双链笔记\|什么是双链笔记]]             | #双链 #知识管理 #obsidian | April 15, 2026 |
+| [[Notes/如何构建知识体系\|如何构建知识体系]]           | #知识管理 #方法论          | April 15, 2026 |
+| [[MOC/MOC - 阅读笔记\|MOC - 阅读笔记]]         | #moc #阅读            | April 15, 2026 |
+| [[MOC/MOC - 效率工具\|MOC - 效率工具]]         | #moc #效率 #工具        | April 15, 2026 |
+| [[MOC/MOC - 技术架构\|MOC - 技术架构]]         | #moc #技术架构 #云原生     | April 15, 2026 |
+
+{ .block-language-dataview}
 
 ## 知识地图
 
