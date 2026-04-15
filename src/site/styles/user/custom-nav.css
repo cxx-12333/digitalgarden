@@ -1,0 +1,78 @@
+/* ===== Navigation Links in Filetree Sidebar ===== */
+.dg-nav-links {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin: 8px 0 12px 0;
+  padding: 0 0 10px 0;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.dg-nav-link {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 10px;
+  border-radius: 6px;
+  color: var(--text-normal);
+  text-decoration: none;
+  font-size: 0.9em;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.dg-nav-link:hover {
+  background-color: var(--background-modifier-hover);
+  color: var(--text-link);
+}
+
+.dg-nav-link svg {
+  flex-shrink: 0;
+  opacity: 0.65;
+}
+
+.dg-nav-link:hover svg {
+  opacity: 1;
+}
+
+/* ===== Archive & Tags page styles ===== */
+.archive-list {
+  list-style: none;
+  padding: 0;
+}
+
+.archive-list li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.archive-list .date {
+  color: var(--text-muted);
+  margin-right: 1rem;
+  font-size: 0.85em;
+  font-family: var(--font-monospace);
+}
+
+/* Dataview table styling */
+table.dataview {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table.dataview th {
+  text-align: left;
+  padding: 0.5rem;
+  border-bottom: 2px solid var(--background-modifier-border);
+  color: var(--text-muted);
+  font-size: 0.85em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+table.dataview td {
+  padding: 0.5rem;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+table.dataview tr:hover td {
+  background-color: var(--background-modifier-hover);
+}
