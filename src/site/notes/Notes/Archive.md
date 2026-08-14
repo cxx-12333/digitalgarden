@@ -1,5 +1,5 @@
 ---
-{"dg-publish": true, "title": "Archive", "dgPermalink": "archive", "dgHideInGraph": true, "dgPinned": true, "dgShowLocalGraph": false, "dgShowBacklinks": false, "dgShowToc": false, "dgShowTags": false, "dgEnableSearch": true, "dgShowInlineTitle": true, "permalink": "/Notes/Archive/", "dg-note-properties": {"title": "Archive", "dg-permalink": "archive", "dg-hide-in-graph": true, "dg-pinned": true, "dg-show-local-graph": false, "dg-show-backlinks": false, "dg-show-toc": false, "dg-show-tags": false, "dg-enable-search": true, "dg-show-inline-title": true}}
+{"dg-publish": true, "title": "Archive", "dg-permalink": "archive", "dgHideInGraph": true, "dgPinned": true, "dgShowLocalGraph": false, "dgShowBacklinks": false, "dgShowToc": false, "dgShowTags": false, "dgEnableSearch": true, "dgShowInlineTitle": true, "permalink": "/archive/", "dg-note-properties": {"title": "Archive", "dg-permalink": "archive", "dg-hide-in-graph": true, "dg-pinned": true, "dg-show-local-graph": false, "dg-show-backlinks": false, "dg-show-toc": false, "dg-show-tags": false, "dg-enable-search": true, "dg-show-inline-title": true}}
 ---
 
 
