@@ -1,5 +1,5 @@
 ---
-{"title": "MOC - 阅读笔记", "created": "2026-04-15", "updated": "2026-04-15", "tags": ["moc", "阅读"], "dg-pinned": true, "dg-show-local-graph": true, "dg-show-backlinks": true, "dg-show-toc": true, "dg-show-tags": true, "dg-enable-search": true, "permalink": "/MOC/MOC%20-%20阅读笔记/"}
+{"dg-publish": true, "title": "MOC - 阅读笔记", "created": "2026-04-15", "updated": "2026-04-15", "tags": ["moc", "阅读"], "dgPinned": true, "dgShowLocalGraph": true, "dgShowBacklinks": true, "dgShowToc": true, "dgShowTags": true, "dgEnableSearch": true, "permalink": "/MOC/MOC - 阅读笔记/", "dg-note-properties": {"title": "MOC - 阅读笔记", "created": "2026-04-15", "updated": "2026-04-15", "tags": ["moc", "阅读"], "dg-pinned": true, "dg-show-local-graph": true, "dg-show-backlinks": true, "dg-show-toc": true, "dg-show-tags": true, "dg-enable-search": true}}
 ---
 
 

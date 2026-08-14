@@ -1,5 +1,5 @@
 ---
-{"title": "Tags", "dg-permalink": "tags", "dg-hide-in-graph": true, "dg-pinned": true, "dg-show-local-graph": false, "dg-show-backlinks": false, "dg-show-toc": false, "dg-show-tags": false, "dg-enable-search": true, "dg-show-inline-title": true, "permalink": "/Notes/Tags/"}
+{"dg-publish": true, "title": "Tags", "dgPermalink": "tags", "dgHideInGraph": true, "dgPinned": true, "dgShowLocalGraph": false, "dgShowBacklinks": false, "dgShowToc": false, "dgShowTags": false, "dgEnableSearch": true, "dgShowInlineTitle": true, "permalink": "/Notes/Tags/", "dg-note-properties": {"title": "Tags", "dg-permalink": "tags", "dg-hide-in-graph": true, "dg-pinned": true, "dg-show-local-graph": false, "dg-show-backlinks": false, "dg-show-toc": false, "dg-show-tags": false, "dg-enable-search": true, "dg-show-inline-title": true}}
 ---
 
 
