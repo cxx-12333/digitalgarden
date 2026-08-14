@@ -1,5 +1,5 @@
 ---
-{"dg-publish": true, "tags": ["gardenEntry"], "title": "知识花园", "created": "2026-04-15", "updated": "2026-04-15", "dg-permalink": "home", "dgShowFiletree": true, "dgShowLocalGraph": false, "dgShowBacklinks": false, "dgEnableSearch": true, "dgShowTags": false, "dgShowInlineTitle": false, "pinned": true, "hideInGraph": true, "permalink": "/home/", "dg-note-properties": {"dg-home": true, "title": "知识花园", "created": "2026-04-15", "updated": "2026-04-15", "dg-permalink": "home", "dg-show-filetree": true, "dg-show-local-graph": false, "dg-show-backlinks": false, "dg-enable-search": true, "dg-show-tags": false, "dg-show-inline-title": false, "dg-pinned": true, "dg-hide-in-graph": true}}
+{"dg-publish": true, "dg-permalink": "home", "permalink": "/home/", "hideInGraph": true, "pinned": true, "title": "知识花园", "tags": ["gardenEntry"], "dgShowFiletree": true, "dgEnableSearch": true, "created": "2026-04-15", "updated": "2026-04-15", "dg-note-properties": {"title": "知识花园", "created": "2026-04-15", "updated": "2026-04-15"}}
 ---
 
 

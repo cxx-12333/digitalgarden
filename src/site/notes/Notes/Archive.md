@@ -1,5 +1,5 @@
 ---
-{"dg-publish": true, "title": "Archive", "dg-permalink": "archive", "hideInGraph": true, "pinned": true, "dgShowLocalGraph": false, "dgShowBacklinks": false, "dgShowToc": false, "dgShowTags": false, "dgEnableSearch": true, "dgShowInlineTitle": true, "permalink": "/archive/", "dg-note-properties": {"title": "Archive", "dg-permalink": "archive", "dg-hide-in-graph": true, "dg-pinned": true, "dg-show-local-graph": false, "dg-show-backlinks": false, "dg-show-toc": false, "dg-show-tags": false, "dg-enable-search": true, "dg-show-inline-title": true}}
+{"dg-publish": true, "dg-permalink": "archive", "permalink": "/archive/", "hideInGraph": true, "pinned": true, "title": "Archive", "dgShowInlineTitle": true, "dgEnableSearch": true, "dg-note-properties": {"title": "Archive"}}
 ---
 
 

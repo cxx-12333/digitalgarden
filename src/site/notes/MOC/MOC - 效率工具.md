@@ -1,5 +1,5 @@
 ---
-{"dg-publish": true, "title": "MOC - 效率工具", "created": "2026-04-15", "updated": "2026-04-15", "tags": ["moc", "效率", "工具"], "pinned": true, "dgShowLocalGraph": true, "dgShowBacklinks": true, "dgShowToc": true, "dgShowTags": true, "dgEnableSearch": true, "permalink": "/MOC/MOC - 效率工具/", "dg-note-properties": {"title": "MOC - 效率工具", "created": "2026-04-15", "updated": "2026-04-15", "tags": ["moc", "效率", "工具"], "dg-pinned": true, "dg-show-local-graph": true, "dg-show-backlinks": true, "dg-show-toc": true, "dg-show-tags": true, "dg-enable-search": true}}
+{"dg-publish": true, "permalink": "/moc/moc---效率工具/", "pinned": true, "title": "MOC - 效率工具", "tags": ["moc", "效率", "工具"], "dgShowLocalGraph": true, "dgShowBacklinks": true, "dgShowTags": true, "dgShowToc": true, "dgEnableSearch": true, "created": "2026-04-15", "updated": "2026-04-15", "dg-note-properties": {"title": "MOC - 效率工具", "created": "2026-04-15", "updated": "2026-04-15"}}
 ---
 
 

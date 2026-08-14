@@ -1,5 +1,5 @@
 ---
-{"dg-publish": true, "title": "MOC - 技术架构", "created": "2026-04-15", "updated": "2026-04-15", "tags": ["moc", "技术架构", "云原生"], "pinned": true, "dgShowLocalGraph": true, "dgShowBacklinks": true, "dgShowToc": true, "dgShowTags": true, "dgEnableSearch": true, "permalink": "/MOC/MOC - 技术架构/", "dg-note-properties": {"title": "MOC - 技术架构", "created": "2026-04-15", "updated": "2026-04-15", "tags": ["moc", "技术架构", "云原生"], "dg-pinned": true, "dg-show-local-graph": true, "dg-show-backlinks": true, "dg-show-toc": true, "dg-show-tags": true, "dg-enable-search": true}}
+{"dg-publish": true, "permalink": "/moc/moc---技术架构/", "pinned": true, "title": "MOC - 技术架构", "tags": ["moc", "技术架构", "云原生"], "dgShowLocalGraph": true, "dgShowBacklinks": true, "dgShowTags": true, "dgShowToc": true, "dgEnableSearch": true, "created": "2026-04-15", "updated": "2026-04-15", "dg-note-properties": {"title": "MOC - 技术架构", "created": "2026-04-15", "updated": "2026-04-15"}}
 ---
 
 
