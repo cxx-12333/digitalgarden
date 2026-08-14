@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"enterprise-idp-config-center","permalink":"/enterprise-idp-config-center/","title":"企业级IDP平台配置中心设计方案","tags":["技术架构","云原生","IDP"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"created":"2026-04-15","updated":"2026-04-15","dg-note-properties":{"title":"企业级IDP平台配置中心设计方案","created":"2026-04-15","updated":"2026-04-15","tags":["技术架构","云原生","IDP"]}}
+{"title": "企业级IDP平台配置中心设计方案", "created": "2026-04-15", "updated": "2026-04-15", "tags": ["技术架构", "云原生", "IDP"], "dg-permalink": "enterprise-idp-config-center", "dg-show-local-graph": true, "dg-show-backlinks": true, "dg-show-toc": true, "dg-show-tags": true, "dg-enable-search": true, "permalink": "/企业级IDP平台配置中心设计方案/"}
 ---
+
 
 
 # 企业级 IDP 平台配置中心设计方案
 
-> 相关入口：[[MOC/MOC - 技术架构\|MOC - 技术架构]]
+> 相关入口：[[MOC - 技术架构]]
 
 ## 一、架构总览
 
