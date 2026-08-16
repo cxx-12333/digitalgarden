@@ -1,5 +1,5 @@
 ---
-{"dg-publish": true, "dg-permalink": "archive", "permalink": "/archive/", "hideInGraph": true, "pinned": true, "title": "Archive", "dgShowInlineTitle": true, "dgEnableSearch": true, "dg-note-properties": {"title": "Archive"}}
+{"dg-publish": true, "dg-permalink": "archive", "permalink": "/archive/", "hideInGraph": true, "pinned": true, "title": "Archive", "dgShowInlineTitle": true, "dgEnableSearch": true, "dg-note-properties": {"title": "Archive", "permalink": "tech/archive"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish": true, "dg-permalink": "alinux-dnf-not-apt", "permalink": "/alinux-dnf-not-apt/", "title": "Alinux 用 dnf 不用 apt", "tags": ["alinux", "dnf", "linux"], "created": "2026-08-14", "updated": "2026-08-14", "dg-note-properties": {"title": "Alinux 用 dnf 不用 apt", "type": "pitfall", "domain": "tech", "created": "2026-08-14", "updated": "2026-08-14", "tags": ["alinux", "dnf", "linux"]}}
+{"dg-publish": true, "dg-permalink": "alinux-dnf-not-apt", "permalink": "/alinux-dnf-not-apt/", "title": "Alinux 用 dnf 不用 apt", "tags": ["alinux", "dnf", "linux"], "created": "2026-08-14", "updated": "2026-08-14", "dg-note-properties": {"title": "Alinux 用 dnf 不用 apt", "type": "pitfall", "domain": "tech", "created": "2026-08-14", "updated": "2026-08-14", "tags": ["alinux", "dnf", "linux"], "permalink": "tech/alinux-用-dnf-不用-apt"}}
 ---
 
 
