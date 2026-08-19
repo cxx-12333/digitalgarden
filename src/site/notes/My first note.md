@@ -12,23 +12,10 @@
 
 ## 最近更新
 
-```dataview
-TABLE WITHOUT ID
-  file.link AS "笔记",
-  choice(tags != null, join(map(tags, (t) => "#" + t), " "), "") AS "标签",
-  created AS "日期"
-FROM -"Templates"
-WHERE file.name != this.file.name AND created
-SORT created DESC
-LIMIT 10
-```
-
-## 知识地图
-
-按主题浏览 → [[MOC - 技术架构]] · [[MOC - 效率工具]] · [[MOC - 阅读笔记]]
-
-## 关于
-
-本站基于 [Obsidian](https://obsidian.md) + [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) 构建。
-
-所有笔记通过 `[[双链]]` 互相关联，支持知识图谱可视化。
+<!--AUTO_HOME_RECENT-->
+| [文件即接口：agent 自动化系统的调度解耦模式](/文件即接口：agent自动化的调度解耦模式) | 2026-08-18 |
+| [Alinux 用 dnf 不用 apt](//alinux-dnf-not-apt) | 2026-08-14 |
+| [MOC - 技术架构](/MOC - 技术架构) | 2026-04-15 |
+| [MOC - 效率工具](/MOC - 效率工具) | 2026-04-15 |
+| [MOC - 阅读笔记](/MOC - 阅读笔记) | 2026-04-15 |
+<!--END_HOME_RECENT-->
