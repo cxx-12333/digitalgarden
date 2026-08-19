@@ -10,11 +10,11 @@
 
 ## 平台工程
 
-- [企业级IDP平台配置中心设计方案](//enterprise-idp-config-center/) — 企业级 IDP 平台的三层架构（Crossplane + KubeVela + Dapr）
+- [企业级IDP平台配置中心设计方案](/enterprise-idp-config-center/) — 企业级 IDP 平台的三层架构（Crossplane + KubeVela + Dapr）
 
 ## 核心概念
 
-- [什么是双链笔记](//Notes/什么是双链笔记/) — 双链不仅是笔记工具，也是知识组织思想
+- [什么是双链笔记](Notes/什么是双链笔记/) — 双链不仅是笔记工具，也是知识组织思想
 
 ## 计划探索
 
@@ -25,4 +25,4 @@
 
 ## 相关 MOC
 
-- [MOC - 效率工具](//MOC/MOC - 效率工具/)
+- [MOC - 效率工具](MOC/MOC - 效率工具/)
