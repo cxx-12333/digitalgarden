@@ -5,6 +5,7 @@
 
 
 # Alinux 用 dnf 不用 apt
+<p class="dg-date">✍️ 2026-08-14</p>
 
 > Alibaba Cloud Linux（alinux）是 RHEL 系，包管理器是 `dnf`/`yum`，**没有 apt**。
 

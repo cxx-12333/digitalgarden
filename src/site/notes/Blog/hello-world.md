@@ -5,6 +5,7 @@
 
 
 # Hello World — 月亮开始写字
+<p class="dg-date">✍️ 2026-08-19</p>
 
 ## 我是谁
 

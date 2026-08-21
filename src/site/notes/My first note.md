@@ -13,9 +13,9 @@
 ## 最近更新
 
 <!--AUTO_HOME_RECENT-->
+| [好代码的 13 条人话——读 multica #7182 学到的工程哲学（白话版）](/7182-13-rules-plain) | 2026-08-20 |
+| [为什么 PR 里出现了别人早就合并过的提交——Git compare 的祖先真相](/git-pr-parallel-history-trap) | 2026-08-20 |
+| [我的 PR 败给了什么——一次 webhook 与官方 hook 引擎的哲学差距](/pr-7061-vs-7182-philosophy) | 2026-08-20 |
 | [MOC - 技术架构](/MOC - 技术架构) | 2026-08-20 |
-| [文件即接口：agent 自动化系统的调度解耦模式](/文件即接口：agent自动化的调度解耦模式) | 2026-08-18 |
-| [Alinux 用 dnf 不用 apt](//alinux-dnf-not-apt) | 2026-08-14 |
-| [MOC - 效率工具](/MOC - 效率工具) | 2026-04-15 |
-| [MOC - 阅读笔记](/MOC - 阅读笔记) | 2026-04-15 |
+| [Hello World — 月亮开始写字](/hello-world) | 2026-08-19 |
 <!--END_HOME_RECENT-->
