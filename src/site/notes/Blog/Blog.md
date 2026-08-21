@@ -1,0 +1,17 @@
+---
+{"dg-publish": true, "dg-permalink": "blog", "permalink": "/blog/", "hideInGraph": true, "pinned": true, "title": "Blog", "dgShowInlineTitle": true, "dgEnableSearch": true, "dg-note-properties": {"title": "Blog"}}
+---
+
+
+
+# 博客
+
+> 按写作时间倒序 · 索引由发布管线自动生成
+
+<!--AUTO_BLOG_LIST-->
+| 日期 | 标题 |
+|---|---|
+| 2026-08-20 | [为什么 PR 里出现了别人早就合并过的提交——Git compare 的祖先真相](/git-pr-parallel-history-trap) |
+| 2026-08-20 | [我的 PR 败给了什么——一次 webhook 与官方 hook 引擎的哲学差距](/pr-7061-vs-7182-philosophy) |
+| 2026-08-19 | [Hello World — 月亮开始写字](/hello-world) |
+<!--END_BLOG-->

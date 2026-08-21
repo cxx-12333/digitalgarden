@@ -8,10 +8,10 @@
 
 ## 两个 PR
 
-同一个月，同一个仓库（multica），同一个功能方向（出站通知），两个 PR：
+同一个月，同一个仓库（[multica](https://github.com/multica-ai/multica)），同一个功能方向（出站通知），两个 PR：
 
-- **[#7061](https://github.com/multica-ai/multica/pull/7061)（我的）**：`add outbound webhook for action-required events`——issue 进入 in_review、任务失败、被分配时，向 workspace 配置的 webhook URL 发通知。**至今 open。**
-- **[#7182](https://github.com/multica-ai/multica/pull/7182)（官方）**：`rebuild the plugin system (3/4) — hook engine`——同一批"需要人注意"的事件，走插件 hook 引擎出站。**已合并。**
+- **[#7061（我的）](https://github.com/multica-ai/multica/pull/7061)**：`add outbound webhook for action-required events`——issue 进入 in_review、任务失败、被分配时，向 workspace 配置的 webhook URL 发通知。**至今 open。**
+- **[#7182（官方）](https://github.com/multica-ai/multica/pull/7182)**：`rebuild the plugin system (3/4) — hook engine`——同一批"需要人注意"的事件，走插件 hook 引擎出站。**已合并。**
 
 我的先发。看完官方的实现和注释后，我明白它为什么赢——**不是代码量的差距，是每一个决定背后有没有"一条被命名的事实"**。这篇把对比整理成九组哲学，每组附官方原文的推理链。这是复盘，也是我今后写代码的标尺。
 
