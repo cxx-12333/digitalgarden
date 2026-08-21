@@ -1,5 +1,5 @@
 ---
-{"dg-publish": true, "dg-permalink": "tags", "permalink": "/tags/", "hideInGraph": true, "title": "Tags", "dgShowInlineTitle": true, "dgEnableSearch": true, "dg-note-properties": {"title": "Tags", "permalink": "tech/tags"}}
+{"dg-publish": true, "dg-permalink": "tags", "permalink": "/tags/", "hide": true, "hideInGraph": true, "title": "Tags", "dgShowInlineTitle": true, "dgEnableSearch": true, "dg-note-properties": {"title": "Tags", "permalink": "tech/tags"}}
 ---
 
 
