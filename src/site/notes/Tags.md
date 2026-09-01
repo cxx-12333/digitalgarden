@@ -9,13 +9,13 @@
 > 索引由发布脚本自动生成（勿手编此列表）
 
 <!--AUTO_TAGS_LIST-->
+**#工程哲学**（3）
+
+[一段 Go 续期协程的美感——读 multica 的 lease extender](/go-lease-extender-elegance) · [好代码的 13 条人话——读 multica #7182 学到的工程哲学（白话版）](/7182-13-rules-plain) · [我的 PR 败给了什么——一次 webhook 与官方 hook 引擎的哲学差距](/pr-7061-vs-7182-philosophy)
+
 **#moc**（3）
 
 [MOC - 技术架构](/MOC - 技术架构) · [MOC - 效率工具](/MOC - 效率工具) · [MOC - 阅读笔记](/MOC - 阅读笔记)
-
-**#工程哲学**（2）
-
-[好代码的 13 条人话——读 multica #7182 学到的工程哲学（白话版）](/7182-13-rules-plain) · [我的 PR 败给了什么——一次 webhook 与官方 hook 引擎的哲学差距](/pr-7061-vs-7182-philosophy)
 
 **#安全**（2）
 
@@ -52,6 +52,18 @@
 **#工程实践**（1）
 
 [为什么 PR 里出现了别人早就合并过的提交——Git compare 的祖先真相](/git-pr-parallel-history-trap)
+
+**#golang**（1）
+
+[一段 Go 续期协程的美感——读 multica 的 lease extender](/go-lease-extender-elegance)
+
+**#并发**（1）
+
+[一段 Go 续期协程的美感——读 multica 的 lease extender](/go-lease-extender-elegance)
+
+**#源码阅读**（1）
+
+[一段 Go 续期协程的美感——读 multica 的 lease extender](/go-lease-extender-elegance)
 
 **#随笔**（1）
 
